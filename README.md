@@ -91,7 +91,7 @@ make sure that ``Node.js`` and ``npm`` are both installed on your device:
 
 1. Clone the project
 
-$ git clone https://github.com
+$ git clone https://github.com/Meinke7/mnkFood-Back-end-BACKUP
 ```
 
 2. Access projects folder:
