@@ -72,7 +72,7 @@ This project was developed using:
 
 <h2 id="usage"> Usage</h2>
 
-This application is hosted [on this link](https://netlify.app/).
+This application is hosted [on this link](https://mnkfood.netlify.app/).
 
  To access the Admin account:
 - E-mail: admin@email.com
