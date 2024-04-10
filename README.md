@@ -90,13 +90,13 @@ back-end api [on this link](https://github.com/Meinke7/mnkFood-front-end)
 make sure that ``Node.js`` and ``npm`` are both installed on your device:
 
 1. Clone the project
-
-$ git clone https://github.com/Meinke7/mnkFood-Back-end-BACKUP
 ```
+$ git clone https://github.com/Meinke7/mnkFood-Back-end-BACKUP
+
 
 2. Access projects folder:
 
-```
+
 $ cd mnkFood-Back-end-BACKUP
 ```
 
