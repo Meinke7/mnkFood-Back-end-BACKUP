@@ -97,7 +97,7 @@ $ git clone https://github.com/Meinke7/mnkFood-Back-end-BACKUP
 2. Access projects folder:
 
 ```
-$ cd food-explorer-backend
+$ cd mnkFood-Back-end-BACKUP
 ```
 
 3. Install the dependencies:
