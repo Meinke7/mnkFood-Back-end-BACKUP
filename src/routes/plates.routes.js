@@ -1,4 +1,4 @@
-const {Router} = require("express");
+const { Router } = require("express");
 const multer = require("multer");
 const uploadConfig = require("../configs/upload");
 
@@ -21,6 +21,10 @@ platesRoutes.get("/:id", platesController.show);
 platesRoutes.delete("/:id", upload.single("imgPlate"), platesController.delete);
 platesRoutes.put("/:id", platesController.update);
 
-platesRoutes.patch("/:id", upload.single("imgPlate"), platesImageController.update);
+platesRoutes.patch(
+  "/:id",
+  upload.single("imgPlate"),
+  platesImageController.update
+);
 
 module.exports = platesRoutes;

@@ -1,4 +1,4 @@
-const {Router} = require("express");
+const { Router } = require("express");
 
 const IngredientsController = require("../Controllers/IngredientsController.js");
 const ensureAuthenticated = require("../middlewares/ensureAuthenticated.js");

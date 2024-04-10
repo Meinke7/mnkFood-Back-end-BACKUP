@@ -34,6 +34,7 @@ class OrderHistory {
 
     async show(request, response){
         const orderHistory = await knex('orderHistory')
+        
         .orderBy('status');
 
         orderHistory.reverse();
