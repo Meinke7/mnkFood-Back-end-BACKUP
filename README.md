@@ -93,13 +93,13 @@ make sure that ``Node.js`` and ``npm`` are both installed on your device:
 ```
 $ git clone https://github.com/Meinke7/mnkFood-Back-end-BACKUP
 
-
+````
 2. Access projects folder:
 
-
+````
 $ cd mnkFood-Back-end-BACKUP
 ```
-
+````
 3. Install the dependencies:
 
 ```
