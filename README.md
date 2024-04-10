@@ -98,7 +98,7 @@ $ git clone https://github.com/Meinke7/mnkFood-Back-end-BACKUP
 
 ````
 $ cd mnkFood-Back-end-BACKUP
-```
+
 ````
 3. Install the dependencies:
 
